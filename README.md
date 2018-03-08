@@ -1,2 +1,2 @@
 # blog
-Share some technolgy and thoughts
+Share some technolgies and thoughts
